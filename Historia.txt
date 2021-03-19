@@ -1,3 +1,2 @@
-Esta es la Historia de EurOriana
+Esta es la practica de Oriana desde VSC con la app Git
 qloq
-je suis a petit rouge
